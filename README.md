@@ -10,3 +10,5 @@ This repo contains all the codes and materials I learn during my Internship
 [downloaded_image_Explanation.docx](https://github.com/user-attachments/files/21432738/downloaded_image_Explanation.docx)
 
 [code explanation day 1.docx](https://github.com/user-attachments/files/21432737/code.explanation.day.1.docx)
+
+[scrape _laptop_no_Explantion.docx](https://github.com/user-attachments/files/21442719/scrape._laptop_no_Explantion.docx)
